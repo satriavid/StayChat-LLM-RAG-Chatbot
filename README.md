@@ -1,7 +1,10 @@
 
 # StayChat LLM RAG Chatbot
 
-Here is the presentation (GIF with 5 sec interval)
+This project is intended as Final Project submission of NLPB-Ilya team for AI Bootcamp program by Indonesia AI. 
+Team Member: Satriavi Dananjaya, Reinaldo Rafael, Roby Koeswojo, Rijal Abdulhakim, Muhammad Yatsrib.
+
+Here is our final project presentation (GIF with 5 sec interval)
 ![StayChat Presentation](images/StayChat_Presentation.gif)
 
 ## StayChat Demo
