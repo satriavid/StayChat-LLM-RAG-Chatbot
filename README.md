@@ -1,6 +1,7 @@
 
 # StayChat LLM RAG Chatbot
 
+Here is the presentation (GIF with 5 sec interval)
 ![StayChat Presentation](images/StayChat_Presentation.gif)
 
 ## StayChat Demo
