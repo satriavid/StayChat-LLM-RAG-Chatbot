@@ -9,7 +9,8 @@ Here is our final project presentation (GIF with 5 sec interval)
 
 ## StayChat Demo
 Based on the best performing LLM RAG in the experiments of this project, we created a demo for StayChat as a proof-of-concept:
-ps. if you want to run the demo, you would need OPEN AI API key and also NGROK Authkey.
+
+ps. if you want to run the demo, you will need OPEN AI API key and also NGROK Authkey.
 
 ![StayChat Demo](images/staychat-demo.gif)
 
